@@ -8,5 +8,7 @@
    - `Skills` : Skills required to obtain job.
 _________________________________________________________________________________________
 
- 2️⃣ Save data in data structure that organizes data into a 2-dimensional table
+ ## 2️⃣ Save data in data structure that organizes data into a 2-dimensional table :
+  - Create Data Frame
+  - save extracted data to Data Frame
 
