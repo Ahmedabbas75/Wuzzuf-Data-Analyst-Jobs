@@ -18,7 +18,7 @@ ________________________________________________________________________________
  - Remove Egypt from Location column.
  - Clean up the Job type by removing forward slashes and get first word of this.
  - in Exp year :
-   - remove this part "Yrs of Exp" from each value.
-   - Get rid of values as " ", "-".
+   - Remove this part `"Yrs of Exp"` from each value.
+   - Get rid of values as `" ", "-".`
    - Convert single value to range format by matching them to existing ranges.
   
