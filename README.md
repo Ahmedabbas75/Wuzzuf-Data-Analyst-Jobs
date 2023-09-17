@@ -39,4 +39,18 @@ ________________________________________________________________________________
    - `Finance Manager`
    - `General Accountant`
    - `Senior Accountant`
-- 
+- Top districts :
+   - `Cairo`
+   - `New Cairo`
+- Most common experience level :
+   - `Experienced`
+   - `Manager`
+   - `Entry Level`
+- Top company is most in demand for jobs :
+   - `Confidential`
+   - `AlGammal Contracting`
+- Top skills :
+   - `Accounting`
+   - `Finance`
+   - `Analyst`
+   - `Research` and `Financial Analysis`
