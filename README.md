@@ -32,6 +32,9 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
 ##  5️⃣ Conclusions :
  - Most common job types is :
-   - Full Time
-   - Internship
+   - `Full Time`
+   - `Internship`
+- Top 10 jobs :
+   - `Accountant`
+   - `Finance Manager`
 - 
