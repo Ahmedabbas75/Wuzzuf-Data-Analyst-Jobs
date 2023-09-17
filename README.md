@@ -12,8 +12,8 @@ ________________________________________________________________________________
   - Create Data Frame
   - save extracted data to Data Frame
 _________________________________________________________________________________________
-##  3️⃣ Cleaning
- - see if we have a duuplicated rows.
+##  3️⃣ Cleaning : 
+ - See if we have a duuplicated rows.
  - Clean up the job_title by removing hyphenated words, text after forward slashes and text within parentheses.
  - Remove Egypt from Location column.
  - Clean up the Job type by removing forward slashes and get first word of this.
@@ -21,4 +21,10 @@ ________________________________________________________________________________
    - Remove this part `"Yrs of Exp"` from each value.
    - Get rid of values as `" ", "-".`
    - Convert single value to range format by matching them to existing ranges.
+_________________________________________________________________________________________
+ ##  4️⃣ Exploratory data analysis : 
+  1). What are the most common Job type?
+  - What is top 10 jobs?
+  - What is top 10 districts?
+  - What level of experience is most required?
   
