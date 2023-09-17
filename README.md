@@ -23,10 +23,10 @@ ________________________________________________________________________________
    - Convert single value to range format by matching them to existing ranges.
 _________________________________________________________________________________________
  ##  4️⃣ Exploratory data analysis : 
-  - What are the most common Job type?
-  - What is top 10 jobs?
-  - What is top 10 districts?
-  - What level of experience is most required?
-  -  What company is most in demand for jobs?
-  -  What is top 10 skills?
+  - What are the most common `Job type`?
+  - What is top `10 jobs`?
+  - What is top `10 districts`?
+  - What `level` of experience is most required?
+  -  What `company name` is most in demand for jobs?
+  -  What is top `10 skills`?
   
